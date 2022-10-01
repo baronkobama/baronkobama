@@ -70,7 +70,7 @@ I'm the obama that mainly devs in Python, but I'm venturing out into other langs
 
 <p align="left">
   <a href="https://github.com/baronkobama/" rel="noreferrer" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronkobama&theme=dark" alt="baronkobama's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baronkobama&theme=dark&count_private=true" alt="baronkobama's Top Languages" />
   </a>
 </p>
 
